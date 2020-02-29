@@ -1,3 +1,5 @@
+PLEASE SEE VERSION 2
+
 Chuck Norris Jokes App
 
 I wrote this app using the React JS library for the Co-operative Bank as a tech test for the position of junior developer in February 2020. 
